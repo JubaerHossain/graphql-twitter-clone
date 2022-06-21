@@ -1,4 +1,4 @@
-# GraphQL Twitter API
+# GraphQL Twitter
 
 ## What will you lean?
 * How A GraphQL API works
